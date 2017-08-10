@@ -1,7 +1,7 @@
 # Logs Analysis
 
 Project for the Udacity Full Stack Web Developer Nanodegree Program.  
-This reporting tool prints out reports (in plain text) based on the data in the new database, provided in the course.  
+This reporting tool prints out reports (in plain text) based on the data in the new database, [provided](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip) in the course.  
   
 Reporting answers on three questions:  
 1. What are the most popular three articles of all time?
