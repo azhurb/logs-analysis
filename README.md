@@ -11,8 +11,9 @@ Reporting answers on three questions:
 ## Requirements
 1. You need to have running `news` databases, provided in the course.
 2. Installed python `2.7.*` or `3.*`
-3. Installed PostgreSQL adapter for the Python `psycopg2`  
-`pip install psycopg2`
+3. Installed PostgreSQL adapter for the Python `psycopg2`
+
+```pip install psycopg2```
 
 ## Example
 To display report run in terminal  
