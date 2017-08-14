@@ -43,7 +43,7 @@ def print_top_authors():
                    FROM articles,
                         log
                    WHERE concat('/article/',articles.slug)
-                        =log.print_top_authors
+                        =log.path
                    GROUP BY articles.slug,
                             author) AS article_views,
                      authors
